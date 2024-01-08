@@ -8,6 +8,7 @@
 - 👤 Conocida como Daniela Levinger
 - 🎥 Ingeniera en Sistemas Computacionales
 - 📲 Front-end Developer
+- 💻 Conocimiento en ReactJs, VueJs, Java, WordPress y más
 - 👩🏼‍💻 Experiencia en la creación de sitios web dinámicos y responsivos
 <br>
 
