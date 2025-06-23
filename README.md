@@ -18,7 +18,7 @@
 <td width="50%">
 <h3 align="center">Angelica's Spa & Wellness</h3>
 <div align="center">
-<a href="https://www.angelicaspawellness.com/" target="_blank"><img src="https://i.imgur.com/znr92je.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://www.angelicaspawellness.info/" target="_blank"><img src="https://i.imgur.com/znr92je.jpg" width="400" alt="Curso básico android"></a>
 
 </p>
 <p>Plataforma web diseñada para la emprendedora Angelica, quien se dedica a brindar servicios de masajes en diversas áreas turísticas. Este proyecto tiene como objetivo proporcionar a los clientes información transparente con el fin de obtener una experiencia única de bienestar y relajación.</p>
