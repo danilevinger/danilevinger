@@ -18,7 +18,7 @@ Profesional en Ingeniería en Sistemas Computacionales enfocada en el desarrollo
 
 <p align="center">
 <a href="https://sharefashion.vercel.app/">
-<img src="assets/sharefashion.png" width="100%" alt="Share Fashion">
+<img src="./assets/share-fashion.webp" width="100%" alt="Share Fashion">
 </a>
 </p>
 
@@ -33,7 +33,7 @@ Plataforma web de comercio electrónico con catálogo de productos, filtros de b
 
 <p align="center">
 <a href="https://inventario-control.vercel.app/">
-<img src="assets/inventario.png" width="100%" alt="Sistema de Inventario">
+<img src="./assets/inventario.webp" width="100%" alt="Sistema de Inventario">
 </a>
 </p>
 
@@ -42,8 +42,6 @@ Aplicación web para la administración de productos, control de existencias y g
 <a href="https://inventario-control.vercel.app/">Ver proyecto →</a>
 
 </td>
-</tr>
-<tr>
 </tr>
 </table>
 
