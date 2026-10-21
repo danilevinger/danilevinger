@@ -51,6 +51,6 @@ Aplicación web para la administración de productos, control de existencias y g
 
 **Contacto**
 
-[Portafolio](https://portafolio-daniela-prado.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/danilevinger/)
+[Portafolio](https://portafolio-daniela-prado.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/danilevinger/) · [Email](https://mail.google.com/mail/?view=cm&fs=1&to=danipradomolina@gmail.com)
 
 </div>
