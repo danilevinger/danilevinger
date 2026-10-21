@@ -1,39 +1,73 @@
-<div align="center">
-<h1 align="center">Hola, soy Daniela Prado</a> 👋</h1>
-</div>
-<img src="https://i.imgur.com/V2Fqu2h.png">
+# 👋 Hola, soy Daniela Prado
 
-## Sobre mi
+### Full Stack Developer | Ingeniera en Sistemas Computacionales
 
-- 👤 Conocida como Daniela Levinger
-- 🎥 Ingeniera en Sistemas Computacionales
-- 📲 Front-end Developer
-- 💻 Conocimiento en ReactJs, Java, WordPress y más
-- 👩🏼‍💻 Experiencia en la creación de sitios web dinámicos y responsivos
-<br>
+Profesional en Ingeniería en Sistemas Computacionales enfocada en el desarrollo de aplicaciones web Full Stack. Me especializo en crear soluciones digitales funcionales, integrando interfaces intuitivas, lógica de negocio y funcionalidades backend para responder a necesidades reales.
 
-## Proyectos
+🌐 **Portafolio:** [portafolio-daniela-prado.vercel.app](https://portafolio-daniela-prado.vercel.app/)
+
+---
+
+## 🚀 Proyectos destacados
+
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">Angelica's Spa & Wellness</h3>
-<div align="center">
-<a href="https://www.angelicaspawellness.info/" target="_blank"><img src="https://i.imgur.com/znr92je.jpg" width="400" alt="Curso básico android"></a>
+<td width="50%" valign="top">
 
-</p>
-<p>Plataforma web diseñada para la emprendedora Angelica, quien se dedica a brindar servicios de masajes en diversas áreas turísticas. Este proyecto tiene como objetivo proporcionar a los clientes información transparente con el fin de obtener una experiencia única de bienestar y relajación.</p>
-</div>                                                                                 
-</td>
-</table>                                                                                 
-</div>
-<br>
-
-### ⚙️ &nbsp;GitHub Analytics
+<h3 align="center">Share Fashion</h3>
 
 <p align="center">
-  <a href="https://github.com/danilevinger">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danilevinger&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danilevinger&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+<a href="https://sharefashion.vercel.app/">
+<img src="assets/sharefashion.png" width="100%" alt="Share Fashion">
+</a>
 </p>
 
+Plataforma web de comercio electrónico con catálogo de productos, filtros de búsqueda e información sobre pedidos y envíos.
+
+<a href="https://sharefashion.vercel.app/">Ver proyecto →</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">Sistema de Gestión de Inventario</h3>
+
+<p align="center">
+<a href="https://inventario-control.vercel.app/">
+<img src="assets/inventario.png" width="100%" alt="Sistema de Inventario">
+</a>
+</p>
+
+Aplicación web para la administración de productos, control de existencias y generación de reportes.
+
+<a href="https://inventario-control.vercel.app/">Ver proyecto →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">Control de Almuerzos</h3>
+
+<p align="center">
+<a href="https://control-almuerzos.vercel.app/">
+<img src="assets/control-almuerzos.png" width="100%" alt="Control de Almuerzos">
+</a>
+</p>
+
+Sistema de gestión de períodos de almuerzo con temporizadores, seguimiento de registros y notificaciones automáticas.
+
+<a href="https://control-almuerzos.vercel.app/">Ver proyecto →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+**Contacto**
+
+[Portafolio](https://portafolio-daniela-prado.vercel.app/) · [GitHub](https://github.com/danilevinger) · [LinkedIn](https://www.linkedin.com/in/danilevinger/)
+
+</div>
