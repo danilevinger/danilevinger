@@ -44,21 +44,6 @@ Aplicación web para la administración de productos, control de existencias y g
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-<h3 align="center">Control de Almuerzos</h3>
-
-<p align="center">
-<a href="https://control-almuerzos.vercel.app/">
-<img src="assets/control-almuerzos.png" width="100%" alt="Control de Almuerzos">
-</a>
-</p>
-
-Sistema de gestión de períodos de almuerzo con temporizadores, seguimiento de registros y notificaciones automáticas.
-
-<a href="https://control-almuerzos.vercel.app/">Ver proyecto →</a>
-
-</td>
 </tr>
 </table>
 
@@ -68,6 +53,6 @@ Sistema de gestión de períodos de almuerzo con temporizadores, seguimiento de 
 
 **Contacto**
 
-[Portafolio](https://portafolio-daniela-prado.vercel.app/) · [GitHub](https://github.com/danilevinger) · [LinkedIn](https://www.linkedin.com/in/danilevinger/)
+[Portafolio](https://portafolio-daniela-prado.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/danilevinger/)
 
 </div>
